@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body{
-  background-color: orange;
+  background-imagem: linear-gradient(90deg, orange, yellow);
   color:black;
   font-size: 12pt ;
   font-family: Arial;
